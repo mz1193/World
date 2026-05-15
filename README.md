@@ -1,4 +1,15 @@
-# Secrets of Sosaria
+
+# NOTICE: Feature Completion - The Culmination of the Virtues
+
+The vision of the land of Sosaria has stabilized since the shattering of the Gem of Immortality. Adventurers both new and returning should consider this world to offer all it was meant to offer and enjoy the journeys and secrets awaiting them within.
+
+However, other shards of the Gem of Immortality exist elsewhere, and those willing may wish to explore the alternate worlds they contain:
+
+[Efellen](https://github.com/EstelMatiazi/Efellen) - A shard similar to Secrets of Sosaria, but with a greater focus on a fantasy endgame rather than a sci-fantasy endgame, as well as increased difficulty.
+
+----------------------------------------------
+
+## Secrets of Sosaria
 
 For instructions, see the [manual](Docs/Manual.md).
 
